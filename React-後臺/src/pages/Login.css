@@ -1,0 +1,10 @@
+
+  /* Login.css */
+body.login-background {
+    margin: 0;
+    background-image: url('./background.png');
+    background-size: cover;
+    background-position: center 50px; /* 第一個值是 X 軸，第二個值是 Y 軸 */
+    background-repeat: no-repeat;
+  }
+  

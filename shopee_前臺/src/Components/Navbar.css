@@ -1,0 +1,14 @@
+
+.flash {
+	opacity: 1;
+	animation: flashEffect 0.5s ease infinite; /* Adjust the duration and easing as needed */
+  }
+  
+  @keyframes flashEffect {
+	0%, 100% {
+	  opacity: 1;
+	}
+	50% {
+	  opacity: 0;
+	}
+  }
